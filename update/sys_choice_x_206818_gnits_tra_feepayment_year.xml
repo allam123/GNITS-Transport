@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="year" table="x_206818_gnits_tra_feepayment" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>I</label>
+            <language>en</language>
+            <name>x_206818_gnits_tra_feepayment</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 11:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5485ef84db121300e2d17b1ebf9619e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 11:28:59</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>II</label>
+            <language>en</language>
+            <name>x_206818_gnits_tra_feepayment</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 11:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d485ef84db121300e2d17b1ebf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 11:28:59</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>III</label>
+            <language>en</language>
+            <name>x_206818_gnits_tra_feepayment</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 11:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5485ef84db121300e2d17b1ebf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 11:28:59</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IV</label>
+            <language>en</language>
+            <name>x_206818_gnits_tra_feepayment</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 11:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d085ef84db121300e2d17b1ebf9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 11:28:59</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>year</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff</label>
+            <language>en</language>
+            <name>x_206818_gnits_tra_feepayment</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 11:28:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5085ef84db121300e2d17b1ebf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 11:28:59</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>year</element>
+            <name>x_206818_gnits_tra_feepayment</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-21 11:28:59</sys_created_on>
+            <sys_id>9085ef84db121300e2d17b1ebf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>year</sys_name>
+            <sys_package display_value="GNITS Transport" source="x_206818_gnits_tra">b78c816edb02d700e2d17b1ebf961960</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GNITS Transport">b78c816edb02d700e2d17b1ebf961960</sys_scope>
+            <sys_update_name>sys_choice_x_206818_gnits_tra_feepayment_year</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-21 11:28:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

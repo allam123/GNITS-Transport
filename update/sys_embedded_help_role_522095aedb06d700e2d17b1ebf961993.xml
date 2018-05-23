@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_206818_gnits_tra.feepayment_user" name="x_206818_gnits_tra.feepayment_user">5620152adb02d700e2d17b1ebf9619cf</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 08:45:37</sys_created_on>
+        <sys_id>522095aedb06d700e2d17b1ebf961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5620152adb02d700e2d17b1ebf9619cf</sys_name>
+        <sys_package display_value="GNITS Transport" source="x_206818_gnits_tra">b78c816edb02d700e2d17b1ebf961960</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GNITS Transport">b78c816edb02d700e2d17b1ebf961960</sys_scope>
+        <sys_update_name>sys_embedded_help_role_522095aedb06d700e2d17b1ebf961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 08:45:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

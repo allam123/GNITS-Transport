@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="FeePayment" max_length="40" name="x_206818_gnits_tra_feepayment" type="collection">
+        <element display="true" label="Date" max_length="40" name="date" read_only="true" type="glide_date"/>
+        <element label="Name" mandatory="true" max_length="50" name="name" type="string"/>
+        <element label="Roll No" mandatory="true" max_length="10" name="roll_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element label="Requested" sequence="0" value="1"/>
+                <element label="Pending" sequence="1" value="2"/>
+                <element label="Approved" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Boarding Point" mandatory="true" max_length="40" name="u_borading" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Bus Number" max_length="40" name="u_bus_no" type="string">
+            <choice>
+                <element label="1D" sequence="0" value="1"/>
+                <element label="2D" sequence="1" value="2"/>
+                <element label="3D" sequence="2" value="3"/>
+                <element label="4D" sequence="3" value="4"/>
+                <element label="5D" sequence="4" value="5"/>
+                <element label="6D" sequence="5" value="6"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course" mandatory="true" max_length="40" name="u_course" type="string">
+            <choice>
+                <element label="B.Tech" sequence="0" value="1"/>
+                <element label="M.Tech" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element label="Receipt Number" mandatory="true" max_length="15" name="u_receipt_number" type="decimal"/>
+        <element choice="1" label="Year" mandatory="true" max_length="40" name="year" type="integer">
+            <choice>
+                <element label="I" sequence="0" value="1"/>
+                <element label="II" sequence="1" value="2"/>
+                <element label="III" sequence="2" value="3"/>
+                <element label="IV" sequence="3" value="4"/>
+                <element label="Staff" sequence="4" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>
