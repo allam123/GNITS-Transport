@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_bus_no" label="Bus Number" language="en" table="x_206818_gnits_tra_feepayment">
+    <sys_documentation element="" label="BusNumber" language="en" table="x_206818_gnits_tra_busnumber">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_bus_no</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Bus Number</label>
+            <label>BusNumber</label>
             <language>en</language>
-            <name>x_206818_gnits_tra_feepayment</name>
-            <plural>Bus Numbers</plural>
+            <name>x_206818_gnits_tra_busnumber</name>
+            <plural>BusNumbers</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:34:02</sys_created_on>
-            <sys_id>82a6e7c4db121300e2d17b1ebf961912</sys_id>
+            <sys_created_on>2018-05-23 13:14:50</sys_created_on>
+            <sys_id>d2e05678dbd61300e2d17b1ebf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Bus Number</sys_name>
+            <sys_name>BusNumber</sys_name>
             <sys_package display_value="GNITS Transport" source="x_206818_gnits_tra">b78c816edb02d700e2d17b1ebf961960</sys_package>
             <sys_policy/>
             <sys_scope display_value="GNITS Transport">b78c816edb02d700e2d17b1ebf961960</sys_scope>
-            <sys_update_name>sys_documentation_x_206818_gnits_tra_feepayment_u_bus_no_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_206818_gnits_tra_busnumber__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:34:02</sys_updated_on>
+            <sys_updated_on>2018-05-23 13:14:50</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

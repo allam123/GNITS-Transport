@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="FeePayment" max_length="40" name="x_206818_gnits_tra_feepayment" type="collection">
+        <element label="Bus Number" mandatory="true" max_length="32" name="bus_number" reference="x_206818_gnits_tra_busnumber" type="reference"/>
         <element display="true" label="Date" max_length="40" name="date" read_only="true" type="glide_date"/>
         <element label="Name" mandatory="true" max_length="50" name="name" type="string"/>
         <element label="Roll No" mandatory="true" max_length="10" name="roll_no" type="string"/>
@@ -12,16 +13,6 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Boarding Point" mandatory="true" max_length="40" name="u_borading" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Bus Number" max_length="40" name="u_bus_no" type="string">
-            <choice>
-                <element label="1D" sequence="0" value="1"/>
-                <element label="2D" sequence="1" value="2"/>
-                <element label="3D" sequence="2" value="3"/>
-                <element label="4D" sequence="3" value="4"/>
-                <element label="5D" sequence="4" value="5"/>
-                <element label="6D" sequence="5" value="6"/>
-            </choice>
-        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Course" mandatory="true" max_length="40" name="u_course" type="string">
             <choice>
                 <element label="B.Tech" sequence="0" value="1"/>
@@ -38,5 +29,11 @@
                 <element label="Staff" sequence="4" value="5"/>
             </choice>
         </element>
+        <index name="index">
+            <element name="roll_no"/>
+        </index>
+        <index name="index2">
+            <element name="bus_number"/>
+        </index>
     </element>
 </database>

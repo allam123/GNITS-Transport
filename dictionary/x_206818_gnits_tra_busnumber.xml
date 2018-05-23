@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="BusNumber" max_length="40" name="x_206818_gnits_tra_busnumber" type="collection">
+        <element label="Boarding Point" mandatory="true" max_length="25" name="boarding_point" type="string"/>
+        <element display="true" label="Bus No" mandatory="true" max_length="10" name="bus_no" type="string"/>
+        <element label="Departure Time" max_length="40" name="departure_time" type="glide_time"/>
+        <index name="index">
+            <element name="bus_no"/>
+        </index>
+    </element>
+</database>

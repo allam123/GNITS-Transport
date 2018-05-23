@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>bus_no</col_name_string>
+        <index_col_name element="bus_no" name="x_206818_gnits_tra_busnumber">f601d678dbd61300e2d17b1ebf961985</index_col_name>
+        <logical_table_name>x_206818_gnits_tra_busnumber</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-23 13:29:36</sys_created_on>
+        <sys_id>9244dab8dbd61300e2d17b1ebf9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_206818_gnits_tra_busnumber</sys_name>
+        <sys_package display_value="GNITS Transport" source="x_206818_gnits_tra">b78c816edb02d700e2d17b1ebf961960</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GNITS Transport">b78c816edb02d700e2d17b1ebf961960</sys_scope>
+        <sys_update_name>sys_index_x_206818_gnits_tra_busnumber_bus_no</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-23 13:29:36</sys_updated_on>
+        <table display_value="BusNumber" name="x_206818_gnits_tra_busnumber">2a909278dbd61300e2d17b1ebf9619cf</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>
