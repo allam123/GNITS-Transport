@@ -19,6 +19,7 @@
                 <element label="M.Tech" sequence="1" value="2"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Email-id" max_length="40" name="u_email" type="string"/>
         <element label="Receipt Number" mandatory="true" max_length="15" name="u_receipt_number" type="decimal"/>
         <element choice="1" label="Year" mandatory="true" max_length="40" name="year" type="integer">
             <choice>

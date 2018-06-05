@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_206818_gnits_tra.accountant" name="x_206818_gnits_tra.accountant">71c64624db121300e2d17b1ebf9619e6</contains>
+        <role display_value="x_206818_gnits_tra.busnumber_user" name="x_206818_gnits_tra.busnumber_user">8ae01678dbd61300e2d17b1ebf9619fb</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-05 07:59:53</sys_created_on>
+        <sys_id>6f75cc09db221300e2d17b1ebf9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_206818_gnits_tra.accountant.x_206818_gnits_tra.busnumber_user</sys_name>
+        <sys_package display_value="GNITS Transport" source="x_206818_gnits_tra">b78c816edb02d700e2d17b1ebf961960</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GNITS Transport">b78c816edb02d700e2d17b1ebf961960</sys_scope>
+        <sys_update_name>sys_user_role_contains_6f75cc09db221300e2d17b1ebf9619d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-05 07:59:53</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

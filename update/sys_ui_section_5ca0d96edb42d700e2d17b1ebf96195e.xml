@@ -5,13 +5,13 @@
             <element>roll_no</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>2f8ce388db121300e2d17b1ebf961948</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>b209a2b4db1a1300e2d17b1ebf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>af8ce388db121300e2d17b1ebf961948</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>3609a2b4db1a1300e2d17b1ebf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_course</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>238ce388db121300e2d17b1ebf961949</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>b609a2b4db1a1300e2d17b1ebf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,41 +47,41 @@
             <element>year</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>a38ce388db121300e2d17b1ebf961949</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>3a09a2b4db1a1300e2d17b1ebf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_email</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>ba09a2b4db1a1300e2d17b1ebf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_borading</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>278ce388db121300e2d17b1ebf961949</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>amount</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>a78ce388db121300e2d17b1ebf961949</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>3e09a2b4db1a1300e2d17b1ebf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_receipt_number</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>2b8ce388db121300e2d17b1ebf961949</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>be09a2b4db1a1300e2d17b1ebf96195f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,27 +103,13 @@
             <element>date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-21 11:59:47</sys_created_on>
-            <sys_id>ab8ce388db121300e2d17b1ebf961949</sys_id>
+            <sys_created_on>2018-05-23 15:00:17</sys_created_on>
+            <sys_id>3209a2b4db1a1300e2d17b1ebf961960</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-21 11:59:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>bus_number</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-23 13:22:54</sys_created_on>
-            <sys_id>54c25a38dbd61300e2d17b1ebf9619ff</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_206818_gnits_tra_feepayment" sys_domain="global" view="Default view">5ca0d96edb42d700e2d17b1ebf96195e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-23 13:22:54</sys_updated_on>
+            <sys_updated_on>2018-05-23 15:00:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

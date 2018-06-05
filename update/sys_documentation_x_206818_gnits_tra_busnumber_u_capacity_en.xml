@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="boarding_point" label="Starting Point" language="en" table="x_206818_gnits_tra_busnumber">
+    <sys_documentation element="u_capacity" label="Capcity" language="en" table="x_206818_gnits_tra_busnumber">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>boarding_point</element>
+            <element>u_capacity</element>
             <help/>
             <hint/>
-            <label>Starting Point</label>
+            <label>Capcity</label>
             <language>en</language>
             <name>x_206818_gnits_tra_busnumber</name>
-            <plural>Starting Points</plural>
+            <plural>Capcities</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-23 13:17:27</sys_created_on>
-            <sys_id>20811a70dbd61300e2d17b1ebf961925</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Starting Point</sys_name>
+            <sys_created_on>2018-06-05 07:44:44</sys_created_on>
+            <sys_id>a50200c5db221300e2d17b1ebf961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Capcity</sys_name>
             <sys_package display_value="GNITS Transport" source="x_206818_gnits_tra">b78c816edb02d700e2d17b1ebf961960</sys_package>
             <sys_policy/>
             <sys_scope display_value="GNITS Transport">b78c816edb02d700e2d17b1ebf961960</sys_scope>
-            <sys_update_name>sys_documentation_x_206818_gnits_tra_busnumber_boarding_point_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_206818_gnits_tra_busnumber_u_capacity_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-05 08:46:43</sys_updated_on>
+            <sys_updated_on>2018-06-05 07:44:44</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
